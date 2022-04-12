@@ -1,0 +1,18 @@
+# ----------------------------------
+# -
+#       SSC
+# -
+#         By: Adiix
+# -
+# ----------------------------------
+# -
+# -
+# -
+# -
+# -
+pickup-limit: -1
+configConvert: true #Dont touch this option
+disable-world: []
+activeLogs: false
+premium-enable-cooldown-for-op: true
+checkVersionMsg: true
